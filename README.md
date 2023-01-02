@@ -18,6 +18,8 @@ npx degit https://github.com/NwosaEmeka/vite-typescript-starterpack my-app
 
 where my-app can be any name
 
+Or you can clone this repo
+
 ## install dependencies
 
 cd my-app && npm i
