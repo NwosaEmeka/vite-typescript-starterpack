@@ -26,7 +26,7 @@ cd my-app && npm i
 
 ## Run dev server
 
-npm start
+npm run dev
 
 ## Build
 
